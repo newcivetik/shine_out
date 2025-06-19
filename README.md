@@ -120,13 +120,13 @@
 ### 4. Скриншоты выполненных заданий
 
 #### Личный репозиторий
-![Личный репозиторий](sreenshot/image1.png)  
+![Личный репозиторий](screenshot/image1.png)  
 
 #### Пример Pull Request
-![Пример Pull Request](sreenshot/image2.png)  
+![Пример Pull Request](screenshot/image2.png)  
 
 #### Работа в IDE
-![Работа в IDE](sreenshot/image3.png)  
+![Работа в IDE](screenshot/image3.png)  
 
 ---
 
